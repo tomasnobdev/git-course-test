@@ -1,0 +1,46 @@
+* {
+    color: orange;
+    background-color: orangered;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url(https://www.arabianbusiness.com/sites/default/files/styles/full_img/public/images/2018/03/05/eSports.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+form {
+    height: 100%;
+border: 2px solid;
+background-image: url(http://unrealitymag.com/wp-content/uploads/2019/01/Xbox-gamers-better-than-PS4-and-PC-according-to-LG-s-completely-scientific-new-research-753215.jpg);
+background-size: 100%;
+background-repeat: repeat-y;
+width: 30%;
+
+}
+
+input {
+    background-color: black;
+ 
+    background-image: none;
+border: 2px solid;
+font-size: 17px;
+height: 65px;
+width: 300px;
+
+}
+
+label {
+    background-image: none;
+    background-color: black;
+    color: orangered;
+    font-size: 18px;
+}
+
+textarea {
+    background-image: none;
+    background-color: black;
+    color: orangered;
+    font-size: 15px;
+    height: 70px;
+width: 300px;
+
+}
+
